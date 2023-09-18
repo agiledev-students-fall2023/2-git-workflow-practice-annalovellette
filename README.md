@@ -3,3 +3,6 @@ https://www.thestar.com/business/how-canada-poached-10-000-tech-workers-from-the
 
 ## What I Found Interesting
 This article highlights Canada's rapid success in attracting foreign tech workers from the U.S. through a fast-track work-permit program. Within just 48 hours, they reached their target of 10,000 applicants seeking permanent residency. This initiative addresses the challenges faced by H-1B visa holders in the U.S., offering them more security and opportunities in Canada. It also underscores the substantial contribution of the tech sector to Canada's economy and its potential for further growth. Overall, Canada's proactive approach to talent acquisition and its simplified immigration system are positioning it as a global leader in attracting tech talent and fostering tech hubs like Toronto, while potentially taking top talent away from the US.
+
+#Lara Kim Edit:
+I also found this article very interesting. I learned that Canada quickly hit their goal of 10,000 tech worker applicants, showing how appealing their fast-track program is. This move positions Canada as a strong competitor to the U.S. in attracting top tech talent. It was interesting to read about how Canada's approach contrasts with that of the U.S. when it comes to attracting tech talent.
